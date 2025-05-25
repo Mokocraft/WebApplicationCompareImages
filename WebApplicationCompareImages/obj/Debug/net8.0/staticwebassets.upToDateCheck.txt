@@ -1,7 +1,5 @@
-wwwroot\Chibi Ryo.jpg
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\Horse.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

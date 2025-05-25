@@ -38,8 +38,7 @@
               "RelativeToolTip": "WebApplicationCompareImages\\Views\\Images\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T15:26:38.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T15:26:38.833Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "WebApplicationCompareImages\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplicationCompareImages\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBQAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T14:12:36.366Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "WebApplicationCompareImages\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:33:10.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T14:33:10.275Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "WebApplicationCompareImages\\Controllers\\ImagesController.cs",
               "ViewState": "AgIAAHQAAAAAAAAAAAAuwJ8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:34:01.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T14:34:01.887Z"
             }
           ]
         }
