@@ -265,3 +265,4 @@ C:\Users\Mokocraft\source\repos\WebApplicationCompareImages\WebApplicationCompar
 C:\Users\Mokocraft\source\repos\WebApplicationCompareImages\WebApplicationCompareImages\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Mokocraft\source\repos\WebApplicationCompareImages\WebApplicationCompareImages\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Mokocraft\source\repos\WebApplicationCompareImages\WebApplicationCompareImages\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Mokocraft\source\repos\WebApplicationCompareImages\WebApplicationCompareImages\obj\Debug\net8.0\WebApplicationCompareImages.sourcelink.json

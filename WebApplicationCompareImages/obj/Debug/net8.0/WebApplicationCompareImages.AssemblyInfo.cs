@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationCompareImages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8daf67f34bf5238ccf5e1b8162ce7dea664700ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc556a0d3ca6f90682eed7ed9b74acb20a7df2a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationCompareImages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationCompareImages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

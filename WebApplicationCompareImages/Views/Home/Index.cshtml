@@ -1,11 +1,54 @@
-﻿@{
+﻿@model IEnumerable<WebApplicationCompareImages.Models.Image>
+
+@{
     ViewData["Title"] = "Home Page";
+    var firstImage = Model.ElementAt(0);
+    var secondImage = Model.ElementAt(1);
 }
 
 <div class="text-center">
     <h1 class="display-4">Image comparison</h1>
-    <p>Select which image you think is better out of the two, the image with the most clicks is considered the best one.</p>
+    <p>Select which image you think is better out of the two, the image with the most points is considered the best one.</p>
 </div>
-<div class="">
+<div class="d-flex align-items-start gap-4">
+    <div style="flex: 1 1 0;">
+        @if (firstImage.ImageData != null && firstImage.ImageData.Length > 0)
+        {
+            var base64 = Convert.ToBase64String(firstImage.ImageData);
+            var imageSrc = $"data:image/png;base64,{base64}";
 
+            <form asp-action="UpdateWinner" method="post">
+                <input type="hidden" name="id1" value="@firstImage.Id" />
+                <input type="hidden" name="id2" value="@secondImage.Id" />
+                <button type="submit" style="border: none; background: none; padding: 0; width: 100%;">
+                    <img src="@imageSrc" alt="Image" style="width: 100%; height: auto;" />
+                </button>
+            </form>
+        }
+        else
+        {
+            <span>No image</span>
+        }
+    </div>
+
+    <div style="flex: 1 1 0;">
+        @if (secondImage.ImageData != null && secondImage.ImageData.Length > 0)
+        {
+            var base64 = Convert.ToBase64String(secondImage.ImageData);
+            var imageSrc = $"data:image/png;base64,{base64}";
+
+            <form asp-action="UpdateWinner" method="post">
+                <input type="hidden" name="id1" value="@secondImage.Id" />
+                <input type="hidden" name="id2" value="@firstImage.Id" />
+                <button type="submit" style="border: none; background: none; padding: 0; width: 100%;">
+                    <img src="@imageSrc" alt="Image" style="width: 100%; height: auto;" />
+                </button>
+            </form>
+        }
+        else
+        {
+            <span>No image</span>
+        }
+    </div>
 </div>
+

@@ -135,8 +135,8 @@ namespace WebApplicationCompareImages.Controllers
                 return NotFound();
             }
 
-            var image = await _context.Image
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var image = await _context.Image.FirstOrDefaultAsync(m => m.Id == id);
+
             if (image == null)
             {
                 return NotFound();
