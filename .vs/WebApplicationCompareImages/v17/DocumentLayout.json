@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\views\\images\\mage model.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\views\\images\\mage model.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\data\\migrations\\20250521144244_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\data\\migrations\\20250521144244_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\views\\images\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\views\\images\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|c:\\users\\mokocraft\\source\\repos\\webapplicationcompareimages\\webapplicationcompareimages\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA2CDF4-A808-44B1-B277-02341027D24C}|WebApplicationCompareImages\\WebApplicationCompareImages.csproj|solutionrelative:webapplicationcompareimages\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250521144244_initialsetup.cs",
-              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Data\\Migrations\\20250521144244_initialsetup.cs",
-              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Data\\Migrations\\20250521144244_initialsetup.cs",
-              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Data\\Migrations\\20250521144244_initialsetup.cs",
-              "RelativeToolTip": "WebApplicationCompareImages\\Data\\Migrations\\20250521144244_initialsetup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:42:45.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Controllers\\ImagesController.cs",
-              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Controllers\\ImagesController.cs",
-              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Controllers\\ImagesController.cs",
-              "RelativeToolTip": "WebApplicationCompareImages\\Controllers\\ImagesController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwEwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:35:23.388Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebApplicationCompareImages\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "mage model.razor",
+              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Images\\mage model.razor",
+              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Views\\Images\\mage model.razor",
+              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Images\\mage model.razor",
+              "RelativeToolTip": "WebApplicationCompareImages\\Views\\Images\\mage model.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T09:39:09.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplicationCompareImages\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:33:44.592Z",
+              "WhenOpened": "2025-05-25T09:32:04.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Images\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Views\\Images\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Images\\Create.cshtml*",
+              "RelativeToolTip": "WebApplicationCompareImages\\Views\\Images\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T09:27:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "WebApplicationCompareImages\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:35:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Models\\Image.cs",
               "RelativeDocumentMoniker": "WebApplicationCompareImages\\Models\\Image.cs",
               "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Models\\Image.cs",
               "RelativeToolTip": "WebApplicationCompareImages\\Models\\Image.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T14:30:58.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplicationCompareImages\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T14:19:26.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationCompareImages\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Mokocraft\\source\\repos\\WebApplicationCompareImages\\WebApplicationCompareImages\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplicationCompareImages\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T14:18:02.452Z"
+              "WhenOpened": "2025-05-21T14:30:58.385Z",
+              "EditorCaption": ""
             }
           ]
         }
